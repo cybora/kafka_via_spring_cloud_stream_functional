@@ -1,0 +1,2 @@
+# kafka_via_spring_cloud_stream_functional
+spring cloud stream functional approach
